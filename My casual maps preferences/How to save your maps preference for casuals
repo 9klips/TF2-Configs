@@ -1,0 +1,11 @@
+*****How to save your maps preference for casuals*****
+
+Select the maps you wanted to save and then save it in game. 
+Then go to ...\Program Files\Steam\steamapps\common\Team Fortress 2\tf
+and find the file named "casual_criteria.vdf" now right click on it and go to properties.
+After that select "Read only" and save.
+Now your saved maps preference will never reset.
+
+Alternative method:
+
+Copy that casual_criteria.vdf file to ...\Program Files\Steam\steamapps\common\Team Fortress 2\tf\custom\casualmaps
