@@ -9,3 +9,5 @@
 ## Alternative method:
 ### Download [casual_criteria.vdf](casual-maps-settings/casual_criteria.vdf) and place it here:
 > ...\Program Files\Steam\steamapps\common\Team Fortress 2\tf\custom\casualmaps
+
+### Or Download from [Google Drive](https://drive.google.com/open?id=1USWEpDPJZZovSmrbgSBrDStZrUqy8KSB)
