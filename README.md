@@ -6,7 +6,8 @@
 ## How to install these configs :-
 ### Download the files inside [cfg](cfg/) directory and place it here:
 >....\Steam\steamapps\common\Team Fortress 2\tf\cfg
-When ever you switch class that specific class cfg file will be executed automatically.
+
+Whenever you switch class that specific class cfg file will be executed automatically.
 
 ## TF2 Launch Options:-
 > +exec autoexec.cfg -high -threads 2 -novid -nojoy +mat_queue_mode 2
