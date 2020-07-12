@@ -13,4 +13,4 @@ Whenever you switch class that specific class cfg file will be executed automati
 > +exec autoexec.cfg -high -threads 2 -novid -nojoy +mat_queue_mode 2
 
 ## [My TF2 HUD](https://toonhud.com/user/9klips/theme/WMTTGJS8)
-### Fonts used in HUD: Verdana, Tahoma, [TF2 Build, TF2 Secondary](https://drive.google.com/open?id=1QTBt_ALkdlWefR8AK5fvzZXo5iv5xM5Z)
+Fonts used in HUD: Verdana, Tahoma, [TF2 Build, TF2 Secondary](https://drive.google.com/open?id=1QTBt_ALkdlWefR8AK5fvzZXo5iv5xM5Z)
